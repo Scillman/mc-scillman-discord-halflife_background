@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "com.featherwhisker.halflifemenu.mixin.client",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "RotatingCubeMapRendererMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
